@@ -1,7 +1,7 @@
 -- HOKALAZA Camlock GUI Script With Key System
 
 -- Key System Config
-local CorrectKey = "CRAZYAIM"
+local CorrectKey = "CRAZYCAM"
 local DiscordLink = "https://discord.gg/4myWDtW8yj"
 
 -- Blur Effect
